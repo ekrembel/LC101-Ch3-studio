@@ -1,0 +1,7 @@
+
+
+If you have been asked to enter a new password and one of the requirements is to include a non-alphabetic character …. then make it one that's easy to find on the keyboard of all your devices. And on the keyboard of any other device you might use ……. and not one that requires more than a 'shift' function to generate or appears as something different once it's been through a few text editors. So on my iPad I type in £¥ and see the currency symbol for the UK followed by the currency symbol for Japan but this may come back as a different combination of characters once it's been through a couple of text editors, especially ones used to handling the currency symbols for Russia, India, Thailand or Turkey etc. That's not very handy when you're trying to enter a password on a foreign website (or foreign keyboard) and can't see on screen what it is you're typing in. You may find it quite impossible to enter some characters this way and won't be able to use your password. Sure, resetting your password usually works in these cases - unless the password reset means you have to access your email and to access your email you need to enter a password with the same non alphabetic character ….
+
+So, good examples include ! and ?
+
+Bad examples include all currency symbols except $, upside down (Spanish) question mark, brackets.
